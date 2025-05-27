@@ -76,7 +76,7 @@ A small RESTful API for coffee orders built in Go.
     </tr>
     <tr>
         <td><b>Testing:</b></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=pytest,jest,postman"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vitest,postman"/></td>
     </tr>
     <tr>
         <td><b>Version Control:</b></td>
@@ -84,6 +84,6 @@ A small RESTful API for coffee orders built in Go.
     </tr>
     <tr>
         <td><b>Editors:</b></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,idea"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
     </tr>
 </table>
