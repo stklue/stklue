@@ -55,12 +55,35 @@ A small RESTful API for coffee orders built in Go.
 
 ---
 
-### 🧰 Languages & Tools
+### ⚙️ Languages and Tools
 
-```plaintext
-Languages: Go, Java, Python, JavaScript, TypeScript, HTML/CSS, SQL
-Frameworks: Spring Boot, Next.js, React, Tailwind CSS, Node.js
-Services: Firebase, Supabase, Google Cloud
-Protocols: gRPC, REST, WebSockets
-Tools: Docker, Git, VSCode
-Concepts: Algorithms, Clean Architecture, API Design, Software Optimization
+<table>
+    <tr>
+        <td><b>Backend:</b></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=go,java,spring,grpc,nodejs,express"/></td>
+    </tr>
+    <tr>
+        <td><b>Frontend:</b></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,js,ts,tailwind"/></td>
+    </tr>
+    <tr>
+        <td><b>Databases:</b></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,supabase"/></td>
+    </tr>
+    <tr>
+        <td><b>DevOps / Infra:</b></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,gcp,vercel,linux"/></td>
+    </tr>
+    <tr>
+        <td><b>Testing:</b></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=pytest,jest,postman"/></td>
+    </tr>
+    <tr>
+        <td><b>Version Control:</b></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+    </tr>
+    <tr>
+        <td><b>Editors:</b></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,idea"/></td>
+    </tr>
+</table>
